@@ -12,3 +12,4 @@ The model has a symmetric pair, hinting to the possible corelation with beings.
 It also blinks at 5-3 s intervals. (human blinking)
   
   
+![alt text](https://github.com/RgbTrouw/SolarSystemClock/blob/root/Screenshot.png)
