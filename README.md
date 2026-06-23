@@ -1,4 +1,4 @@
-# Solar-System-Clock  
+# Solar System Clock  
 Model  
   
 The clock model is a representation of the solar system planetary motions.  
