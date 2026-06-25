@@ -7,7 +7,7 @@ Even though it is not calibrated per se (all planets start from the same positio
   
 It currently works at around 48 earth years per day in real time.  
   
-The model has a symmetric pair, hinting to the possible corelation with beings.   
+The model has a symmetric pair as eyes, hinting to the possible corelation with beings.   
   
 It also blinks at 5-3 s intervals. (human blinking)
   
