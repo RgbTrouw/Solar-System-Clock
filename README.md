@@ -11,15 +11,8 @@ The model has a symmetric pair as eyes, hinting to the possible corelation with 
   
 It blinks at 5-3 s intervals. (human blinking)  
 
-  M  
-  V  
-  E  
-  M  
-  J  
-  S  
-  U  
-  N  
-  P  
+  M V E M J S U N P  
+    
 
 
            
