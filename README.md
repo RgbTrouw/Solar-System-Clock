@@ -9,7 +9,7 @@ It currently works at around 48 earth years per day in real time.
   
 The model has a symmetric pair as eyes, hinting to the possible corelation with beings.   
   
-It also blinks at 5-3 s intervals. (human blinking)
+It blinks at 5-3 s intervals. (human blinking)
   
   
 ![alt text](https://github.com/RgbTrouw/SolarSystemClock/blob/root/Screenshot.png)
