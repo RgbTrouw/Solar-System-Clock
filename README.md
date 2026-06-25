@@ -20,6 +20,7 @@ It blinks at 5-3 s intervals. (human blinking)
   U  
   N  
   P  
-  
-  
+
+
+           
 ![alt text](https://github.com/RgbTrouw/SolarSystemClock/blob/root/Screenshot.png)
