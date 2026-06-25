@@ -3,7 +3,7 @@ Model
   
 The clock model is a representation of the solar system planetary motions.  
   
-Even though it is not calibrated to the current dayTime (all planets start from the same position) the orbit and local axis timing is calibrated.  
+Even though it is not calibrated to the current date (all planets start from the same position), the orbit and local axis timing is calibrated.  
   
 It currently works at around 48 earth years per day in real time.  
   
