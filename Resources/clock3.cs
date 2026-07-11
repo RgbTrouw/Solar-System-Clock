@@ -34,9 +34,6 @@ public class clockScript3 : MonoBehaviour
     [SerializeField] GameObject MercuryPlanet2, VenusPlanet2, EarthPlanet2, MarsPlanet2, JupiterPlanet2, SaturnPlanet2, UranusPlanet2, NeptunePlanet2, PlutoPlanet2;
 	[SerializeField] GameObject MercuryOrbit2, VenusOrbit2, EarthOrbit2, MarsOrbit2, JupiterOrbit2, SaturnOrbit2, UranusOrbit2, NeptuneOrbit2, PlutoOrbit2;
 	
-
-	[SerializeField] Text MercuryDayText2, VenusDayText2, EarthDayText2, MarsDayText2, JupiterDayText2, SaturnDayText2, UranusDayText2, NeptuneDayText2, PlutoDayText2;
-	[SerializeField] Text MercuryYearText2, VenusYearText2, EarthYearText2, MarsYearText2, JupiterYearText2, SaturnYearText2, UranusYearText2, NeptuneYearText2, PlutoYearText2;
 	
 	
 	
