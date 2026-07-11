@@ -1,4 +1,4 @@
-// Solar System Clock  
+// Solar System Clock Example Script
 // Copyright (C) 2026 Radu G. Balaban G.  
 
 // This program is free software: you can redistribute it and/or modify  
