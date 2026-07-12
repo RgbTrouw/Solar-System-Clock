@@ -92,46 +92,7 @@ public class clockScript3 : MonoBehaviour
     	PlutoYearDegrees = 360 / ( 24 * 365.25f * 248 );
     	
     	
-        MercuryDayRotation = PlayerPrefs.GetFloat("MercuryDayRotation");
-        VenusDayRotation = PlayerPrefs.GetFloat("VenusDayRotation");
-        EarthDayRotation = PlayerPrefs.GetFloat("EarthDayRotation");
-        MarsDayRotation = PlayerPrefs.GetFloat("MarsDayRotation");
-        JupiterDayRotation = PlayerPrefs.GetFloat("JupiterDayRotation");
-        SaturnDayRotation = PlayerPrefs.GetFloat("SaturnDayRotation");
-        UranusDayRotation = PlayerPrefs.GetFloat("UranusDayRotation");
-        NeptuneDayRotation = PlayerPrefs.GetFloat("NeptuneDayRotation");
-        PlutoDayRotation = PlayerPrefs.GetFloat("PlutoDayRotation");
-        
-        MercuryYearRotation =  PlayerPrefs.GetFloat("MercuryYearRotation");
-        VenusYearRotation =  PlayerPrefs.GetFloat("VenusYearRotation");
-        EarthYearRotation =  PlayerPrefs.GetFloat("EarthYearRotation");
-        MarsYearRotation =  PlayerPrefs.GetFloat("MarsYearRotation");
-        JupiterYearRotation =  PlayerPrefs.GetFloat("JupiterYearRotation");
-        SaturnYearRotation =  PlayerPrefs.GetFloat("SaturnYearRotation");
-        UranusYearRotation =  PlayerPrefs.GetFloat("UranusYearRotation");
-        NeptuneYearRotation =  PlayerPrefs.GetFloat("NeptuneYearRotation");
-        PlutoYearRotation =  PlayerPrefs.GetFloat("PlutoYearRotation");
-
-        
-        MercuryDayCount =  PlayerPrefs.GetInt("MercuryDayCount");
-        VenusDayCount =  PlayerPrefs.GetInt("VenusDayCount");
-        EarthDayCount =  PlayerPrefs.GetInt("EarthDayCount");
-        MarsDayCount =  PlayerPrefs.GetInt("MarsDayCount");
-        JupiterDayCount =  PlayerPrefs.GetInt("JupiterDayCount");
-        SaturnDayCount =  PlayerPrefs.GetInt("SaturnDayCount");
-        UranusDayCount =  PlayerPrefs.GetInt("UranusDayCount");
-        NeptuneDayCount =  PlayerPrefs.GetInt("NeptuneDayCount");
-        PlutoDayCount =  PlayerPrefs.GetInt("PlutoDayCount");
-        
-        MercuryYearCount =  PlayerPrefs.GetInt("MercuryYearCount");
-        VenusYearCount =   PlayerPrefs.GetInt("VenusYearCount");
-        EarthYearCount =   PlayerPrefs.GetInt("EarthYearCount");
-        MarsYearCount =   PlayerPrefs.GetInt("MarsYearCount");
-        JupiterYearCount =   PlayerPrefs.GetInt("JupiterYearCount");
-        SaturnYearCount =   PlayerPrefs.GetInt("SaturnYearCount");
-        UranusYearCount =   PlayerPrefs.GetInt("UranusYearCount");
-        NeptuneYearCount =   PlayerPrefs.GetInt("NeptuneYearCount");
-        PlutoYearCount =   PlayerPrefs.GetInt("PlutoYearCount");
+      
         
 
         MercuryDayText.text = MercuryDayCount.ToString();
@@ -309,45 +270,6 @@ public class clockScript3 : MonoBehaviour
         if(PlutoYearRotation > 360){ PlutoYearCount += 1; PlutoYearRotation -= 360; PlutoYearText.text = PlutoYearCount.ToString(); }
         
 
-        PlayerPrefs.SetFloat("MercuryDayRotation", MercuryDayRotation);
-        PlayerPrefs.SetFloat("VenusDayRotation", VenusDayRotation);
-        PlayerPrefs.SetFloat("EarthDayRotation", EarthDayRotation);
-        PlayerPrefs.SetFloat("MarsDayRotation", MarsDayRotation);
-        PlayerPrefs.SetFloat("JupiterDayRotation", JupiterDayRotation);
-        PlayerPrefs.SetFloat("SaturnDayRotation", SaturnDayRotation);
-        PlayerPrefs.SetFloat("UranusDayRotation", UranusDayRotation);
-        PlayerPrefs.SetFloat("NeptuneDayRotation", NeptuneDayRotation);
-        PlayerPrefs.SetFloat("PlutoDayRotation", PlutoDayRotation);
-
-        PlayerPrefs.SetFloat("MercuryYearRotation", MercuryYearRotation);
-        PlayerPrefs.SetFloat("VenusYearRotation", VenusYearRotation);
-        PlayerPrefs.SetFloat("EarthYearRotation", EarthYearRotation);
-        PlayerPrefs.SetFloat("MarsYearRotation", MarsYearRotation);
-        PlayerPrefs.SetFloat("JupiterYearRotation", JupiterYearRotation);
-        PlayerPrefs.SetFloat("SaturnYearRotation", SaturnYearRotation);
-        PlayerPrefs.SetFloat("UranusYearRotation", UranusYearRotation);
-        PlayerPrefs.SetFloat("NeptuneYearRotation", NeptuneYearRotation);
-        PlayerPrefs.SetFloat("PlutoYearRotation", PlutoYearRotation);
-
-        PlayerPrefs.SetInt("MercuryDayCount", MercuryDayCount);
-        PlayerPrefs.SetInt("VenusDayCount", VenusDayCount);
-        PlayerPrefs.SetInt("EarthDayCount", EarthDayCount);
-        PlayerPrefs.SetInt("MarsDayCount", MarsDayCount);
-        PlayerPrefs.SetInt("JupiterDayCount", JupiterDayCount);
-        PlayerPrefs.SetInt("SaturnDayCount", SaturnDayCount);
-        PlayerPrefs.SetInt("UranusDayCount", UranusDayCount);
-        PlayerPrefs.SetInt("NeptuneDayCount", NeptuneDayCount);
-        PlayerPrefs.SetInt("PlutoDayCount", PlutoDayCount);
-
-        PlayerPrefs.SetInt("MercuryYearCount", MercuryYearCount);
-        PlayerPrefs.SetInt("VenusYearCount", VenusYearCount);
-        PlayerPrefs.SetInt("EarthYearCount", EarthYearCount);
-        PlayerPrefs.SetInt("MarsYearCount", MarsYearCount);
-        PlayerPrefs.SetInt("JupiterYearCount", JupiterYearCount);
-        PlayerPrefs.SetInt("SaturnYearCount", SaturnYearCount);
-        PlayerPrefs.SetInt("UranusYearCount", UranusYearCount);
-        PlayerPrefs.SetInt("NeptuneYearCount", NeptuneYearCount);
-        PlayerPrefs.SetInt("PlutoYearCount", PlutoYearCount);
 
 
     }
