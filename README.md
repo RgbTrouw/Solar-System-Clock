@@ -19,3 +19,11 @@ It blinks at 5-3 s intervals. (human blinking)
 
            
 ![alt text](https://github.com/RgbTrouw/SolarSystemClock/blob/root/Screenshot.png)
+  
+  
+
+For donations ->  
+  
+
+![alt text](https://github.com/RgbTrouw/SolarSystemClock/blob/root/donationsAccount.png)  
+  
