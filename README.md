@@ -26,4 +26,4 @@ It blinks at 5-3 s intervals. (human blinking)
 
 <img src="https://github.com/RgbTrouw/SolarSystemClock/blob/root/donationsAccountQr.png" width="320" height="320"/>  
   
-             <- For donations  
+             <- Donations  
